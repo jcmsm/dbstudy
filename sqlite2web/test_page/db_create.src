@@ -1,0 +1,10 @@
+CREATE TABLE test ( x integer , y integer);
+
+INSERT INTO test (x,y) VALUES (1,1);
+INSERT INTO test (x,y) VALUES (2,2);
+INSERT INTO test (x,y) VALUES (3,3);
+INSERT INTO test (x,y) VALUES (4,4);
+INSERT INTO test (x,y) VALUES (5,5);
+INSERT INTO test (x,y) VALUES (6,6);
+INSERT INTO test (x,y) VALUES (7,7);
+INSERT INTO test (x,y) VALUES (8,8);
